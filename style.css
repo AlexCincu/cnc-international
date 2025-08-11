@@ -1,0 +1,7 @@
+
+body { font-family: Arial, sans-serif; margin: 0; padding: 20px; background: #f9f9f9; }
+header nav ul { list-style: none; display: flex; gap: 15px; background: #2e3d57; padding: 10px; }
+header nav ul li a { color: white; text-decoration: none; }
+footer { margin-top: 40px; padding: 20px; background: #2e3d57; color: white; text-align: center; }
+footer a { color: white; margin: 0 10px; text-decoration: none; padding: 8px 12px; border: 1px solid white; border-radius: 4px; }
+h1 { color: #2e3d57; }
